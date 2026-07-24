@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Analizador visible</string>
+    <string name="service_description">Lee únicamente el contenido visible de la pantalla para detectar nombres de juegos y RTP mostrados. No realiza apuestas ni accede a datos ocultos.</string>
+</resources>
